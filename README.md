@@ -4,3 +4,4 @@
 - Rootfs partition changed at 1024MB
 - Enable Dropbear support ecdsa keys
 - Must be supported officialy openwrt updates
+### Big thanks to @anaelorlinski
